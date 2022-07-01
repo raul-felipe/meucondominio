@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840977522795",
+    "firebase_url": "https://meu-condominio-e15ce.firebaseio.com",
+    "project_id": "meu-condominio-e15ce",
+    "storage_bucket": "meu-condominio-e15ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840977522795:android:1bde50521349e9d43c112e",
+        "android_client_info": {
+          "package_name": "com.example.meucondominio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840977522795-us6pvvfr86ps49qc4b8kpslu9vn1k6j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhl50XDGg_kmRFKUYzogOnqGohdhvdvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840977522795-us6pvvfr86ps49qc4b8kpslu9vn1k6j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
