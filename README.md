@@ -1,7 +1,7 @@
 # meucondominio
 
-It is a project made in university for condo management using Flutter and Firebase.
+I developed a cleaning management app (mobile and website) for a company in Brazil using Flutter, javascript and Firebase. The app was not deployed and we froze the development for personal reasons.
 
 ## Demonstration
 
-![alt text](https://github.com/raul-felipe/meucondominio/blob/master/assets/presentation.gif)
+![alt text](https://github.com/raul-felipe/grupo_fenix_app/blob/32fd2e1686189065cc5ac0d0b0216bed5ad9f9be/Record_2022-07-08-11-37-46_6bee0f78642e72321d4af37cddf3e91b.gif)
