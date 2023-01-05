@@ -4,4 +4,4 @@ I developed a cleaning management app (mobile and website) for a company in Braz
 
 ## Demonstration
 
-![alt text](https://github.com/raul-felipe/grupo_fenix_app/blob/32fd2e1686189065cc5ac0d0b0216bed5ad9f9be/Record_2022-07-08-11-37-46_6bee0f78642e72321d4af37cddf3e91b.gif)
+<img src="[https://your-image-url.type](https://github.com/raul-felipe/meucondominio/blob/d32f143eba0a49121fb4ca1262036c7779e4aa79/assets/presentation.gif)" width="300">
